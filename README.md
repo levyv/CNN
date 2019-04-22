@@ -1,5 +1,5 @@
 # CNN
-convolutional neural network
+(Convolutional Neural Network)
 Python CNN Machine Learning Model
 
 This is the first version of my CNN(Artificial Neural Network) model. It runs at a 85-90% accuracy with the current dataset that is imported. Feel free to improve/fork/report issues.
